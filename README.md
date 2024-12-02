@@ -34,6 +34,8 @@ for days in life:
 
 - [**YALA**](https://github.com/yossTheDev/yala): A package manager for Arch-based Linux systems.  
 - [**Prossa**](https://github.com/yossTheDev/prossa): A web-based ebook reader built with Vue.js.
+- [**BoostedPic**](https://github.com/yossTheDev/boostedpic):  Fast Image Optimization Tool for Web and Social Media
+- [**yearprogress**](https://github.com/yossTheDev/yearprogress):  📅 New Year Countdown. It shows the remaining days, hours, minutes, and seconds until the new year arrives. 🥳🎉
 
 <h3 align="center">✨ My Favorite Tech Stack</h3>
 
