@@ -7,8 +7,6 @@
  <b> 🎨 Web Developer </b>  |  <b>💻 Linux Enthusiast</b>  |  <b> 🚀 Side Project Fanatic</b>
 </p>
 
----
-
 ### 🛠️ What I’m Working On
 
 I’m currently focused on building amazing tools like:  
@@ -17,8 +15,6 @@ I’m currently focused on building amazing tools like:
   ![Karbonized Banner](./img/kabonized.png)  
 - [**Organized**](https://github.com/yossTheDev/organized): A TypeScript CLI to automatically organize your folders by file type.  
   ![Organized Banner](./img/organized.webp)  
-
----
 
 ### 💡 Fun Fact  
 
@@ -34,14 +30,10 @@ for days in life:
         code()
 ```
 
----
-
 ### 📚 Other Projects You Might Like  
 
 - [**YALA**](https://github.com/yossTheDev/yala): A package manager for Arch-based Linux systems.  
 - [**Prossa**](https://github.com/yossTheDev/prossa): A web-based ebook reader built with Vue.js.
-
----
 
 <h3 align="center">✨ My Favorite Tech Stack</h3>
 
@@ -58,15 +50,11 @@ for days in life:
   <img src="https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=for-the-badge" alt="Node.js">
 </p>
 
----
-
 <h3 align="center">📊 Widgets</h3>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yossthedev&show_icons=true&theme=dark" alt="GitHub Stats">
 </p>
-
----
 
 <h3 align="center">🤝 Connect with Me</h3>
 
