@@ -13,7 +13,7 @@ I’m currently focused on building amazing tools like:
 
 - [**Karbonized**](https://github.com/yossTheDev/karbonized): An Electron-based application for creating beautiful code snippets.  
   ![Karbonized Banner](./img/kabonized.png)  
-- [**Organized**](https://github.com/yossTheDev/organized): A TypeScript CLI to automatically organize your folders by file type.  
+- [**Organized**](https://github.com/yossTheDev/organized-cli): A TypeScript CLI to automatically organize your folders by file type.  
   ![Organized Banner](./img/organized.webp)  
 
 ### 💡 Fun Fact  
