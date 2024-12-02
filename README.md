@@ -54,7 +54,7 @@ for days in life:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yossthedev&show_icons=true&theme=dark" alt="GitHub Stats">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yossTheDev&layout=donut">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yossTheDev&layout=donut&theme=dark">
 </p>
 
 <h3 align="center">🤝 Connect with Me</h3>
